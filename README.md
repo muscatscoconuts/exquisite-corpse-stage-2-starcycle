@@ -51,11 +51,11 @@ The life cycle of a star is an unconventional representation of time because it 
 Second, processes within a star, such as nuclear fusion in its core, occur at incredibly high temperatures and pressures. This leads to rapid changes and transformations over much shorter periods of time compared to the overall lifespan of the star. This rapid change in the core reminds me of a computing and coding environment. The complex interactions in the star's core that create emergent behaviors and phenomena can then be compared to the performance of machine learning and artificial intelligence algorithms. Just as stars evolve and exhibit different stages of their life cycle, artificial intelligence systems learn from data and experience to adapt and improve
 
 ### 🟨 Stage 2
-- Name/Alias:
-- Github account:
-- Published webpage for stage 2:
-
-*... comments to be added here*
+- Name/Alias:Kike
+- Github account: https://github.com/muscatscoconuts
+- Published webpage for stage 2: https://muscatscoconuts.github.io/exquisite-corpse-stage-2-starcycle-alien-invasion/
+Respond to a Stage 1 sketch that you've chosen by using interactivity. You can either add to the chosen sketch or build a new one from scratch (this applies for all subsequent stages too).
+As the stage 1 sketch was space themed, I wanted to let the viewer/user add space aliens to the scene. I added a button to summon the aliens, and used a found pixel art image from google of a ufo to fit with the aesthetic of the original sketch. The user can summon aliens by clicking the button until the space cycle completes and resets, and then the aliens reset with it, and the user can begin the alien invasion again. The position of the aliens is randomised and they can appear anywhere in the window. The colour of the alien invasion text is also randomised.
 
 ### 🟩 Stage 3
 - Name/Alias:
